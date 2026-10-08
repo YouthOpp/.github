@@ -14,7 +14,7 @@ Use a feature branch. Keep changes scoped, include relevant tests and explain wh
 
 ## Repository responsibilities
 
-Use [YouthOpps/data-pipeline](https://github.com/YouthOpps/data-pipeline) for adapters, data collection Actions and scripts, datasets, schema validation and the source registry. Use [YouthOpps/youthopp.github.io](https://github.com/YouthOpps/youthopp.github.io) for downloading validated pipeline outputs and presenting the catalog and public Docs. Shared policies and the organisation profile belong to [YouthOpps/.github](https://github.com/YouthOpps/.github).
+Use [YouthOpps/data-pipeline](https://github.com/YouthOpps/data-pipeline) for adapters, data collection Actions and scripts, datasets, schema validation and the source registry. Use [YouthOpps/youthopps.github.io](https://github.com/YouthOpps/youthopps.github.io) for downloading validated pipeline outputs and presenting the catalog and public Docs. Shared policies and the organisation profile belong to [YouthOpps/.github](https://github.com/YouthOpps/.github).
 
 Remove obsolete files, scripts and datasets only after checking their imports, workflow invocations, runtime inputs and documented use. Keep active source records in the shared pipeline format; do not add independent website datasets or a second source registry.
 
