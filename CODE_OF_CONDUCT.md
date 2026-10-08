@@ -12,7 +12,7 @@ Harassment, discriminatory remarks, threats, sexualised conduct, personal attack
 
 ## Reporting and response
 
-For non-sensitive conduct questions, use [GitHub Discussions](https://github.com/orgs/YouthOpp/discussions) first; use the relevant repository's Issues for concrete, non-sensitive reports. For sensitive or private reports, email **contact@youthopps.org**. Do not post sensitive details in public.
+For non-sensitive conduct questions, use [GitHub Discussions](https://github.com/orgs/YouthOpps/discussions) first; use the relevant repository's Issues for concrete, non-sensitive reports. For sensitive or private reports, email **contact@youthopps.org**. Do not post sensitive details in public.
 
 Maintainers may request changes, remove content, restrict participation or block accounts, depending on the severity and recurrence of behaviour. They should explain decisions where doing so is appropriate and protects affected people. Maintainers are subject to the same standards.
 
