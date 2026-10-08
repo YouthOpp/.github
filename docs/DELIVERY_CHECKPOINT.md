@@ -4,7 +4,7 @@ Open AI agent: Product Owner — recovery snapshot, 2026-10-05. Read current aut
 
 ## Project identity and authorized operations
 
-Public project references use [YouthOpp/.github](https://github.com/YouthOpp/.github), [YouthOpp/data-pipeline](https://github.com/YouthOpp/data-pipeline) and [YouthOpp/youthopp.github.io](https://github.com/YouthOpp/youthopp.github.io). These are canonical project identities, not claims that recorded fork runs executed upstream.
+Public project references use [YouthOpps/.github](https://github.com/YouthOpps/.github), [YouthOpps/data-pipeline](https://github.com/YouthOpps/data-pipeline) and [YouthOpps/youthopp.github.io](https://github.com/YouthOpps/youthopp.github.io). These are canonical project identities, not claims that recorded fork runs executed upstream.
 
 Implementation work is restricted to `fmarslan/YouthOpp-.github`, `fmarslan/YouthOpp-data-pipeline` and `fmarslan/YouthOpp-youthopp.github.io`. Never send upstream PRs. The owner authorized branches, per-task commits, reviewed single-consolidated-commit PRs into fork main and their merge. Comments, PRs and commits begin `Open AI agent:`. Coordinate separate Product Owner, Architect, Researcher, Frontend, Pipeline and independent QA roles; inspect current task owners before duplicating work.
 
