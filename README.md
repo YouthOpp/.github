@@ -11,7 +11,7 @@
 - [Product contract](docs/PRODUCT_CONTRACT.md)
 - [Delivery checkpoint](docs/DELIVERY_CHECKPOINT.md)
 
-Public project documentation is built by [YouthOpps/youthopp.github.io](https://github.com/YouthOpps/youthopp.github.io). The planned public address is [youthopps.org](https://youthopps.org); DNS, GitHub Pages binding, HTTPS and public behavior still require verification, so this is not a live-hosting claim. Source adapters, collection workflows, registry and datasets belong to [YouthOpps/data-pipeline](https://github.com/YouthOpps/data-pipeline); the website consumes those outputs and presents them. This repository provides the organisation-wide foundation; technical specifications belong alongside their implementation.
+Public project documentation is built by [YouthOpps/youthopps.github.io](https://github.com/YouthOpps/youthopps.github.io). The planned public address is [youthopps.org](https://youthopps.org); DNS, GitHub Pages binding, HTTPS and public behavior still require verification, so this is not a live-hosting claim. Source adapters, collection workflows, registry and datasets belong to [YouthOpps/data-pipeline](https://github.com/YouthOpps/data-pipeline); the website consumes those outputs and presents them. This repository provides the organisation-wide foundation; technical specifications belong alongside their implementation.
 
 
 ## Contact
