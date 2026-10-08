@@ -2,6 +2,10 @@
 
 Help young people spend less time searching and more time understanding their opportunities. You can research a source, write an adapter, fix a link, improve accessibility, review a translation, document a decision or test a change. A first contribution can be small.
 
+## Communication
+
+Use [GitHub Discussions](https://github.com/orgs/YouthOpp/discussions) first for questions, ideas and general project conversation. Use the relevant repository's Issues for reproducible bugs, data corrections and concrete work. Email **contact@youthopps.org** when GitHub is unsuitable, especially for private or sensitive communication. Never put personal, confidential or sensitive information in a public Discussion or Issue.
+
 ## Start with a task
 
 Check the relevant repository for an existing task before opening one. Explain the problem, affected users, evidence and a clear acceptance criterion. Where issues are disabled, use the checked-in task register until a maintainer enables issues. Do not invent issue identifiers or claim a task has been posted when it has not.
