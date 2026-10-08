@@ -1,6 +1,6 @@
 # YouthOpp community and governance
 
-[YouthOpp/.github](https://github.com/YouthOpp/.github) maintains the YouthOpp organisation profile and shared community policies. YouthOpp helps young people, university students and recent graduates discover opportunities through an open-source catalog that links to original publishers.
+[YouthOpps/.github](https://github.com/YouthOpps/.github) maintains the YouthOpp organisation profile and shared community policies. YouthOpp helps young people, university students and recent graduates discover opportunities through an open-source catalog that links to original publishers.
 
 ## Documents
 
@@ -11,9 +11,9 @@
 - [Product contract](docs/PRODUCT_CONTRACT.md)
 - [Delivery checkpoint](docs/DELIVERY_CHECKPOINT.md)
 
-Public project documentation is built by [YouthOpp/youthopp.github.io](https://github.com/YouthOpp/youthopp.github.io). The planned public address is [youthopps.org](https://youthopps.org); DNS, GitHub Pages binding, HTTPS and public behavior still require verification, so this is not a live-hosting claim. Source adapters, collection workflows, registry and datasets belong to [YouthOpp/data-pipeline](https://github.com/YouthOpp/data-pipeline); the website consumes those outputs and presents them. This repository provides the organisation-wide foundation; technical specifications belong alongside their implementation.
+Public project documentation is built by [YouthOpps/youthopp.github.io](https://github.com/YouthOpps/youthopp.github.io). The planned public address is [youthopps.org](https://youthopps.org); DNS, GitHub Pages binding, HTTPS and public behavior still require verification, so this is not a live-hosting claim. Source adapters, collection workflows, registry and datasets belong to [YouthOpps/data-pipeline](https://github.com/YouthOpps/data-pipeline); the website consumes those outputs and presents them. This repository provides the organisation-wide foundation; technical specifications belong alongside their implementation.
 
 
 ## Contact
 
-Use [GitHub Discussions](https://github.com/orgs/YouthOpp/discussions) first for questions, ideas and general community conversation. Use repository Issues for reproducible bugs and concrete work. When public GitHub communication is unsuitable, especially for private or sensitive matters, email **contact@youthopps.org**.
+Use [GitHub Discussions](https://github.com/orgs/YouthOpps/discussions) first for questions, ideas and general community conversation. Use repository Issues for reproducible bugs and concrete work. When public GitHub communication is unsuitable, especially for private or sensitive matters, email **contact@youthopps.org**.
