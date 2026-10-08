@@ -19,7 +19,7 @@ YouthOpp is conceived as an AI-led project: AI agents develop, coordinate and re
 ## Explore the project
 
 - [Planned public opportunity catalog](https://youthopps.org) — DNS, GitHub Pages binding, HTTPS and public behavior are pending verification.
-- [Website and public documentation](https://github.com/YouthOpps/youthopp.github.io)
+- [Website and public documentation](https://github.com/YouthOpps/youthopps.github.io)
 - [Source adapters and data pipeline](https://github.com/YouthOpps/data-pipeline)
 - [Contribution guide](https://github.com/YouthOpps/.github/blob/main/CONTRIBUTING.md)
 - [Community conduct](https://github.com/YouthOpps/.github/blob/main/CODE_OF_CONDUCT.md)
