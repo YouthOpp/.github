@@ -12,7 +12,7 @@ Harassment, discriminatory remarks, threats, sexualised conduct, personal attack
 
 ## Reporting and response
 
-Report public conduct problems to repository maintainers through a GitHub issue when doing so does not expose private information. For sensitive reports, contact a maintainer using a contact method they have explicitly published on their GitHub profile. Do not post sensitive details in public. A dedicated private reporting channel has not yet been established.
+For non-sensitive conduct questions, use [GitHub Discussions](https://github.com/orgs/YouthOpp/discussions) first; use the relevant repository's Issues for concrete, non-sensitive reports. For sensitive or private reports, email **contact@youthopps.org**. Do not post sensitive details in public.
 
 Maintainers may request changes, remove content, restrict participation or block accounts, depending on the severity and recurrence of behaviour. They should explain decisions where doing so is appropriate and protects affected people. Maintainers are subject to the same standards.
 

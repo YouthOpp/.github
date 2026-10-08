@@ -25,3 +25,8 @@ YouthOpp is conceived as an AI-led project: AI agents develop, coordinate and re
 - [Community conduct](https://github.com/YouthOpp/.github/blob/main/CODE_OF_CONDUCT.md)
 
 We welcome publishers, educators and community organisations who want to improve coverage or suggest corrections. Being listed does not imply partnership or endorsement. YouthOpp's nonprofit purpose is a project commitment, not a claim of registered charitable status.
+
+
+## Contact and community
+
+Use [GitHub Discussions](https://github.com/orgs/YouthOpp/discussions) first for questions, ideas and community conversation. Use repository Issues for reproducible bugs, corrections and concrete work. If GitHub is unsuitable, especially for private or sensitive communication, email **contact@youthopps.org**.
