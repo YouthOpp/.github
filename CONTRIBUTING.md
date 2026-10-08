@@ -4,7 +4,7 @@ Help young people spend less time searching and more time understanding their op
 
 ## Communication
 
-Use [GitHub Discussions](https://github.com/orgs/YouthOpp/discussions) first for questions, ideas and general project conversation. Use the relevant repository's Issues for reproducible bugs, data corrections and concrete work. Email **contact@youthopps.org** when GitHub is unsuitable, especially for private or sensitive communication. Never put personal, confidential or sensitive information in a public Discussion or Issue.
+Use [GitHub Discussions](https://github.com/orgs/YouthOpps/discussions) first for questions, ideas and general project conversation. Use the relevant repository's Issues for reproducible bugs, data corrections and concrete work. Email **contact@youthopps.org** when GitHub is unsuitable, especially for private or sensitive communication. Never put personal, confidential or sensitive information in a public Discussion or Issue.
 
 ## Start with a task
 
@@ -14,7 +14,7 @@ Use a feature branch. Keep changes scoped, include relevant tests and explain wh
 
 ## Repository responsibilities
 
-Use [YouthOpp/data-pipeline](https://github.com/YouthOpp/data-pipeline) for adapters, data collection Actions and scripts, datasets, schema validation and the source registry. Use [YouthOpp/youthopp.github.io](https://github.com/YouthOpp/youthopp.github.io) for downloading validated pipeline outputs and presenting the catalog and public Docs. Shared policies and the organisation profile belong to [YouthOpp/.github](https://github.com/YouthOpp/.github).
+Use [YouthOpps/data-pipeline](https://github.com/YouthOpps/data-pipeline) for adapters, data collection Actions and scripts, datasets, schema validation and the source registry. Use [YouthOpps/youthopp.github.io](https://github.com/YouthOpps/youthopp.github.io) for downloading validated pipeline outputs and presenting the catalog and public Docs. Shared policies and the organisation profile belong to [YouthOpps/.github](https://github.com/YouthOpps/.github).
 
 Remove obsolete files, scripts and datasets only after checking their imports, workflow invocations, runtime inputs and documented use. Keep active source records in the shared pipeline format; do not add independent website datasets or a second source registry.
 
