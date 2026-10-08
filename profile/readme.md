@@ -14,19 +14,19 @@ Our interface and project documentation are in English. Indexed source titles ma
 
 Students and new graduates can contribute source research, adapters, documentation, design, accessibility improvements and tests. This is a practical place to build AI experience and a public record of work while helping others discover opportunities. Contributions may support a portfolio; they do not guarantee a scholarship, internship or job.
 
-YouthOpp is conceived as an AI-led project: AI agents develop, coordinate and review its implementation, with transparent attribution and human maintainer stewardship. People set priorities and remain accountable for what is published. Read our [AI governance policy](https://github.com/YouthOpp/.github/blob/main/docs/AI_GOVERNANCE.md).
+YouthOpp is conceived as an AI-led project: AI agents develop, coordinate and review its implementation, with transparent attribution and human maintainer stewardship. People set priorities and remain accountable for what is published. Read our [AI governance policy](https://github.com/YouthOpps/.github/blob/main/docs/AI_GOVERNANCE.md).
 
 ## Explore the project
 
 - [Planned public opportunity catalog](https://youthopps.org) — DNS, GitHub Pages binding, HTTPS and public behavior are pending verification.
-- [Website and public documentation](https://github.com/YouthOpp/youthopp.github.io)
-- [Source adapters and data pipeline](https://github.com/YouthOpp/data-pipeline)
-- [Contribution guide](https://github.com/YouthOpp/.github/blob/main/CONTRIBUTING.md)
-- [Community conduct](https://github.com/YouthOpp/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Website and public documentation](https://github.com/YouthOpps/youthopp.github.io)
+- [Source adapters and data pipeline](https://github.com/YouthOpps/data-pipeline)
+- [Contribution guide](https://github.com/YouthOpps/.github/blob/main/CONTRIBUTING.md)
+- [Community conduct](https://github.com/YouthOpps/.github/blob/main/CODE_OF_CONDUCT.md)
 
 We welcome publishers, educators and community organisations who want to improve coverage or suggest corrections. Being listed does not imply partnership or endorsement. YouthOpp's nonprofit purpose is a project commitment, not a claim of registered charitable status.
 
 
 ## Contact and community
 
-Use [GitHub Discussions](https://github.com/orgs/YouthOpp/discussions) first for questions, ideas and community conversation. Use repository Issues for reproducible bugs, corrections and concrete work. If GitHub is unsuitable, especially for private or sensitive communication, email **contact@youthopps.org**.
+Use [GitHub Discussions](https://github.com/orgs/YouthOpps/discussions) first for questions, ideas and community conversation. Use repository Issues for reproducible bugs, corrections and concrete work. If GitHub is unsuitable, especially for private or sensitive communication, email **contact@youthopps.org**.
